@@ -1,8 +1,8 @@
 # UnicornProgressBar
 
 ![Build](https://github.com/cesar-richard/UnicornProgressBar/workflows/Build/badge.svg)
-[![Version](https://img.shields.io/jetbrains/plugin/v/18271-unicorn-progress-bar.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
-[![Downloads](https://img.shields.io/jetbrains/plugin/d/18271-unicorn-progress-bar.svg)](https://plugins.jetbrains.com/plugin/PLUGIN_ID)
+[![Version](https://img.shields.io/jetbrains/plugin/v/18271-unicorn-progress-bar.svg)](https://plugins.jetbrains.com/plugin/18271-unicorn-progress-bar)
+[![Downloads](https://img.shields.io/jetbrains/plugin/d/18271-unicorn-progress-bar.svg)](https://plugins.jetbrains.com/plugin/18271-unicorn-progress-bar)
 
 <!-- Plugin description -->
 

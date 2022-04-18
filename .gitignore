@@ -3,3 +3,5 @@
 .qodana
 build
 /local.properties
+/chain.crt
+/UnicornProgressBarSignature.pem
